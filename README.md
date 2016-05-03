@@ -8,4 +8,7 @@ You can play the game at: http://hengc.github.io/github-games/
 
 This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
 
+
 adding some text from fix-index-file branch
+
+what shall we do with this branch (stats-update)?
